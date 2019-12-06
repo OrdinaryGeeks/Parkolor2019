@@ -1,2 +1,2 @@
 # Parkolor2019
-Entry for Github Game Challenge 2019.  The game is basic.  Left click or space to jump.  Right click to attack.  Absorb color from objects and lights.  Use color banks to gain access to certain areas 
+Entry for Github Game Challenge 2019.  The game is basic.  Left click or space to jump.  Right click to attack.  Absorb color from objects and lights.  Use color banks to gain access to certain areas.  Collect lights by standing where they spawn.  They will respawn, 5 will always be spawned somewhere on the map.  You can pass through walls if you have more color of each color component than the wall.  Use Mouse Scroll wheel to switch from martial arts, to sword combat, or shooting a gun.
